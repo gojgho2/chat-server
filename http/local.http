@@ -1,0 +1,8 @@
+POST localhost:8080/member/create
+Content-Type: application/json
+
+{
+    "name": "고정효",
+    "email": "gojgho@naver.com",
+    "password": "wjdgy12!"
+}
